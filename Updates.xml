@@ -1,0 +1,31 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.abc.www</Name>
+  <DisplayName>Screen</DisplayName>
+  <Description>Install Component.</Description>
+  <Version>1.0.0.152</Version>
+  <ReleaseDate>2013-01-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="50412186" OS="Any" CompressedSize="14356569"/>
+  <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>2f52b0351663871b35dc03dda6a73191d3b658e1</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.efg.com</Name>
+  <DisplayName>Screen2</DisplayName>
+  <Description>Install Component.</Description>
+  <Version>1.0.0.154</Version>
+  <ReleaseDate>2013-01-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="50412186" CompressedSize="14356445" OS="Any"/>
+  <DownloadableArchives>bin.7z,script.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>763239f4eca0d92263fb57f1e7b5e97780eab64c</SHA1>
+ </PackageUpdate>
+</Updates>
